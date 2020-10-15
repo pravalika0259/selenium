@@ -15,8 +15,7 @@ public class Test {
 		int a = 2,b=3,c=0;
 		c = a + b;
 		System.out.println(c);
-		driver.close();
-		
+		driver.close();	
 				
 	}
 
