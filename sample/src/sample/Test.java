@@ -9,6 +9,7 @@ public class Test {
 
 	public static void main(String[] args) {
 		
+		/* Just checking*/
 		System.setProperty("webdriver.gecko.driver","E:\\SeleniumPractice\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.google.co.in/");
